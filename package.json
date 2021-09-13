@@ -2,7 +2,7 @@
   "name": "github-pages-deploy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bianca-morris.github.io/github-pages-deploy",
+  "homepage": "https://Bianca-Morris.github.io/github-pages-deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
